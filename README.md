@@ -40,8 +40,8 @@ url :- http://localhost:8081/search
 
 payload: 
 {
-	"SearchBy":"imdbid",
-	"SearchData":"tt2884018"
+	"SearchBy":"year",
+	"SearchData":"1985"
 }
 
 #
